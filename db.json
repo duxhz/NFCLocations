@@ -1,7 +1,4 @@
-{
-    "Status": 200,
-    "msg": null,
-    "Url": null,
+
     "Profile": {
         "subscription_id": 0,
         "total_milestones": 1,
@@ -152,4 +149,3 @@
             "Photo": ""
         }
     ]
-}
