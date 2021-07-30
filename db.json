@@ -1,0 +1,155 @@
+{
+    "Status": 200,
+    "msg": null,
+    "Url": null,
+    "Profile": {
+        "subscription_id": 0,
+        "total_milestones": 1,
+        "claimed_milestones": 0,
+        "total_units": {
+            "Value": 2.0,
+            "Descriptive": "2GB"
+        },
+        "claimed_units": {
+            "Value": 0.0,
+            "Descriptive": "0GB"
+        }
+    },
+    "Locations": [
+        {
+            "Claimed": false,
+            "Id": 1,
+            "Name": null,
+            "Latitude": 46010261063726792.0,
+            "Longitude": 13561762469416966.0,
+            "Hint": "",
+            "hint_push": "Pod stolpom se skriva zelen zmaj s �rno piko na repu.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 2,
+            "Name": null,
+            "Latitude": 4606808485340775.0,
+            "Longitude": 14546196752756256.0,
+            "Hint": "",
+            "hint_push": "V TC ju so na polici sadni mobiteli.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 3,
+            "Name": null,
+            "Latitude": 4607996277914925.0,
+            "Longitude": 1448270922709054.0,
+            "Hint": "",
+            "hint_push": "Imamo tudi mobitele, ki jih amerika prepoveduje.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 4,
+            "Name": null,
+            "Latitude": 46662031716991464.0,
+            "Longitude": 16145243669433916.0,
+            "Hint": "",
+            "hint_push": "Samsung je najbolj prodajan znamka mobitelov v Sloveniji.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 5,
+            "Name": null,
+            "Latitude": 465585492501278.0,
+            "Longitude": 15646485818690040.0,
+            "Hint": "",
+            "hint_push": "Na blagajni so vedno najbolj simpati�na dekleta.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 6,
+            "Name": null,
+            "Latitude": 4649890436012354.0,
+            "Longitude": 1556658902339881.0,
+            "Hint": "",
+            "hint_push": "Najbolj udobni stoli v kotu recepcije.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 7,
+            "Name": null,
+            "Latitude": 4624172780456938.0,
+            "Longitude": 15278363527094748.0,
+            "Hint": "",
+            "hint_push": "NEO je nepozabno do�ivetje.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 8,
+            "Name": null,
+            "Latitude": 460728740557682.0,
+            "Longitude": 14520525855926240.0,
+            "Hint": "",
+            "hint_push": "Ko pride� na grad je razgled najbolj�i samo z ene to�ke.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        },
+        {
+            "Claimed": false,
+            "Id": 9,
+            "Name": null,
+            "Latitude": 460728740557682.0,
+            "Longitude": 14520525855926240.0,
+            "Hint": "",
+            "hint_push": "V slu�bi na Vojkovi vsi vemo, kje sedi Delalut.",
+            "Radius": 300,
+            "Reward": {
+                "Value": 1.0,
+                "Descriptive": "1GB"
+            },
+            "Photo": ""
+        }
+    ]
+}
